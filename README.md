@@ -24,6 +24,9 @@
 - Once the Setup file downlaods, install it after giving admin permissions and then follow the usual installation process to install the app.
 - Follow the video below to Know how to use the app.
 
+## Usage Video Link:
+https://drive.google.com/file/d/1YHDGNUrTOQ6evAYg-TaM75tstR1Dotvk/view?usp=sharing
+
 ## Author Info :
 
 - Youtube - [Tech Rack](https://www.youtube.com/TechRack)
